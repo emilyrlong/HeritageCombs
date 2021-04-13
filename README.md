@@ -6,7 +6,7 @@ This repo includes materials for my presentation at a monthly ConCode meeting in
 
 The goal of this presentation is to show ...
 
-See the R markdown file for a tutorial on how to clean up data from Zooniverse in R.
+See this tutorial on how to clean up data from Zooniverse in R: https://rpubs.com/emilylong/zooniverse
 
 The corresponding R code file is essentially the same as the tutorial, but with fewer comments. If you're new to R, I recommend the tutorial. :)
 
