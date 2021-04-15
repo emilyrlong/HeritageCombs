@@ -16,7 +16,7 @@ The test data is in the **heritage-combs-classifications.csv** file. Note that t
 
 The slides from my presentation are in **ZooniverseSlides.pdf**.
 
-The markdown files (**ZooniverseDataCleaning.hmtl & .Rmd**) are here if you are so inclined.
+The markdown file (**ZooniverseDataCleaning.Rmd**) is here if you are so inclined.
 
 After testing this data, I actually found out something interesting about how Zooniverse assigns usernames to participants who aren't logged in. See my question on [Zooniverse Talk](https://www.zooniverse.org/talk/18/1946121) and the file **SessionData.png** for more details.
 
