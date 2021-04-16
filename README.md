@@ -2,7 +2,7 @@
 
 Heritage Combs is a group project created during the Crowd-Sourced and Citizen Data for Cultural Heritage module in the UCL Data Science for Cultural Heritage MSc programme. You can find the project on [Zooniverse](https://www.zooniverse.org/projects/ucl-dot-dasch/heritage-combs), but we aren't collecting more data at the moment.
 
-This repo includes materials for my presentation at a monthly ConCode meeting in April 2021 called "Zooniverse for Heritage Projects: Zooming through Zooniverse Data." ConCode is a group open to anyone with an interest in cultural heritage and coding. The goal of this presentation is to show people how to create a project in Zooniverse, clean the data in R to prepare for analysis, and present some results from the project. 
+This repo includes materials for my presentation at a monthly ConCode meeting in April 2021 called "Zooniverse for Heritage Projects: Zooming through Zooniverse Data." ConCode is a group open to anyone with an interest in cultural heritage and coding. The goal of this presentation is to show people how to create a project in Zooniverse, clean the data in R to prepare for analysis, and present some results from the project. You can find the presentation on [YouTube](https://youtu.be/HObswhR3h8c).
 
 Have any questions? Email me at emily.long.17@ucl.ac.uk
 
